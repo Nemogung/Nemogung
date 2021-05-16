@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning pre programming
 - 💞️ I’m looking to collaborate on html and other basic programming languages
 - 📫 you can contact me on email: ushagung77@gmail.com
+- If you wish to help me join the slack community where my username is Nemo Gurung  
 
 <!---
 Nemogung/Nemogung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
